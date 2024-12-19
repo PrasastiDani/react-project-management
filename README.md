@@ -13,6 +13,14 @@ https://react-project-management-virid.vercel.app/
 Desain UI bisa lihat di sini: 
 https://www.figma.com/design/5Pw4q0WBZ7wmuC54mydwIz/Untitled?node-id=0-1&t=RekB9Ylczzaov0tk-1
 
+## Teknologi yang digunakan
+
+#### React.js
+<img src="https://upload.wikimedia.org/wikipedia/commons/a/a7/React-icon.svg" alt="React.js Logo" width="100"> [React.js Website](https://react.dev)
+
+#### Material-UI
+<img src="https://cdn.worldvectorlogo.com/logos/material-ui-1.svg" alt="Material-UI Logo" width="100"> [Material-UI Website](https://mui.com) 
+
 ---
 
 ## Daftar Isi
