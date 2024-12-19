@@ -1,98 +1,68 @@
 # React Project Management
 
-A simple and intuitive project management application built using React. This application helps you manage tasks, track progress, and organize projects efficiently.
+Aplikasi manajemen proyek sederhana dan intuitif yang dibangun menggunakan React. Aplikasi ini membantu dalam mengelola tugas, melacak progres, dan mengorganisasi proyek dengan efisien.
 
 ## Demo
 
-Check out the live demo here: [React Project Management](https://react-project-management-virid.vercel.app/)
+Coba aplikasi ini secara langsung di sini: 
+https://react-project-management-virid.vercel.app/
 
 ---
 
-## Table of Contents
+## Daftar Isi
 
-- [Installation](#installation)
-- [Code Structure](#code-structure)
-- [Running the Application](#running-the-application)
+- [Instalasi](#instalasi)
+- [Menjalankan Aplikasi](#menjalankan-aplikasi)
+- [Autentikasi](#autentikasi)
 
 ---
 
-## Installation
+## Instalasi
 
-To get started with the project locally, follow these steps:
+Untuk memulai proyek ini secara lokal, ikuti langkah-langkah berikut:
 
-1. **Clone the repository**
+1. **Klon repositori**
 
    ```bash
    git clone https://github.com/PrasastiDani/react-project-management.git
    cd react-project-management
    ```
 
-2. **Install dependencies**
+2. **Instal dependensi**
 
-   Make sure you have Node.js and npm (or yarn) installed on your machine. Then, run:
+   Pastikan Anda memiliki Node.js dan npm (atau yarn) yang terinstal di komputer Anda. Kemudian jalankan:
 
    ```bash
    npm install
    ```
-
 ---
 
-## Code Structure
 
-The codebase is organized as follows:
+## Menjalankan Aplikasi
 
-```
-react-project-management/
-├── public/               # Static assets (e.g., index.html, favicon)
-├── src/                  # Source code
-│   ├── assets/           # Images, icons, and other static assets
-│   ├── components/       # Reusable components
-│   │   ├── Header.js     # Header component
-│   │   ├── Footer.js     # Footer component
-│   │   └── ...
-│   ├── pages/            # Application pages
-│   │   ├── Dashboard.js  # Main dashboard page
-│   │   ├── Login.js      # Login page
-│   │   └── ...
-│   ├── context/          # React context for global state management
-│   ├── hooks/            # Custom React hooks
-│   ├── services/         # API service functions
-│   ├── utils/            # Utility functions
-│   ├── App.js            # Main app component
-│   └── index.js          # Entry point of the application
-├── .env                  # Environment variables
-├── .gitignore            # Files to ignore in version control
-├── package.json          # Project dependencies and scripts
-└── README.md             # Documentation
-```
+Setelah dependensi terinstal, ikuti langkah-langkah berikut untuk menjalankan aplikasi:
 
----
-
-## Running the Application
-
-Once you have installed the dependencies, follow these steps to run the application:
-
-1. **Start the development server**
+1. **Jalankan server pengembangan**
 
    ```bash
    npm start
    ```
 
-   This will start the development server, and the application will be accessible at `http://localhost:3000`.
+   Ini akan memulai server pengembangan, dan aplikasi dapat diakses di `http://localhost:3000`.
 
-2. **Build for production**
+2. **Build untuk produksi**
 
-   To create an optimized build for production, run:
+   Untuk membuat build yang dioptimalkan untuk produksi, jalankan:
 
    ```bash
    npm run build
    ```
 
-   The production build will be generated in the `build/` directory.
+   Build produksi akan dihasilkan di direktori `build/`.
 
-3. **Run tests** (if available)
+3. **Jalankan tes** (jika tersedia)
 
-   To execute tests, run:
+   Untuk menjalankan tes, jalankan:
 
    ```bash
    npm test
@@ -100,4 +70,38 @@ Once you have installed the dependencies, follow these steps to run the applicat
 
 ---
 
-Feel free to contribute to this project by submitting issues or pull requests!
+## Autentikasi
+
+Aplikasi ini memiliki dua peran pengguna dengan kredensial berikut:
+
+### Admin
+- **Username:** `admin`
+- **Password:** `123`
+
+### User
+- **Username:** `user`
+- **Password:** `123`
+
+Gunakan kredensial ini untuk login di halaman login aplikasi.
+
+---
+
+## Tampilan Halaman
+
+![React-App-12-19-2024_07_38_PM](https://github.com/user-attachments/assets/776e8071-811e-4498-b746-ae3fb98e791b)
+
+---
+
+![React-App-12-19-2024_07_39_PM](https://github.com/user-attachments/assets/02086f30-aabf-49a5-9694-1d069e986b03)
+
+---
+
+![React-App-12-19-2024_07_40_PM](https://github.com/user-attachments/assets/d69de171-652d-4e27-ab31-3ccf8d74bd93)
+
+---
+
+![React-App-12-19-2024_07_41_PM](https://github.com/user-attachments/assets/14e6ae13-c35a-4492-8b6b-745ab420b6f5)
+
+---
+
+![React-App-12-19-2024_07_41_PM (1)](https://github.com/user-attachments/assets/93b6518f-7234-4db3-96ab-f955e8b19d64)
