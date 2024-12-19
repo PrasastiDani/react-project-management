@@ -14,6 +14,7 @@ https://react-project-management-virid.vercel.app/
 - [Instalasi](#instalasi)
 - [Menjalankan Aplikasi](#menjalankan-aplikasi)
 - [Autentikasi](#autentikasi)
+- [Tampilan Halaman](#tampilan-halaman)
 
 ---
 
