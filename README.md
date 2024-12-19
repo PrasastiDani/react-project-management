@@ -7,6 +7,12 @@ Aplikasi manajemen proyek sederhana dan intuitif yang dibangun menggunakan React
 Coba aplikasi ini secara langsung di sini: 
 https://react-project-management-virid.vercel.app/
 
+
+## Desain UI
+
+Desain UI bisa lihat di sini: 
+https://www.figma.com/design/5Pw4q0WBZ7wmuC54mydwIz/Untitled?node-id=0-1&t=RekB9Ylczzaov0tk-1
+
 ---
 
 ## Daftar Isi
