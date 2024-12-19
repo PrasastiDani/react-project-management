@@ -35,14 +35,6 @@ To get started with the project locally, follow these steps:
    npm install
    ```
 
-3. **Set up environment variables** (if required)
-
-   Create a `.env` file in the root directory to configure any necessary environment variables. Example:
-
-   ```env
-   REACT_APP_API_URL=https://api.example.com
-   ```
-
 ---
 
 ## Code Structure
